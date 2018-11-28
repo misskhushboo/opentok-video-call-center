@@ -3,7 +3,7 @@
     <div class="uk-section uk-section-primary">
       <div class="uk-container uk-text-center">
         <h1 class="uk-margin-large-top">Call Center Application</h1>
-        <p class="uk-text-lead">This demo showcases a simulation of call center where callers queue up to talk to available agents.</p>
+        <p class="uk-text-lead">A call center application where callers queue up to talk to available agents.</p>
       </div>
     </div>
     <div class="uk-section uk-section-default">
